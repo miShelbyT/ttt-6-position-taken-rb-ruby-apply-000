@@ -2,11 +2,7 @@
 array[index_number]
 def position_taken(board, index)
   if
-    "   " == false
-  elsif
-    "  " == false
-  elsif
-    " " == false
+    "   " || "  " || " " == false
   else
     true
   end
