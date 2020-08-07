@@ -1,14 +1,13 @@
 # code your #position_taken? method here!
 array[index_number]
 def position_taken(board, index)
-  if 
+  if
     "   " == false
-  elsif 
+  elsif
     "  " == false
-  elsif 
+  elsif
     " " == false
   else
     true
   end
 end
-    
