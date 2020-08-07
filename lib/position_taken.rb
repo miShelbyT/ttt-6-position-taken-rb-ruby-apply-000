@@ -1,8 +1,8 @@
 # code your #position_taken? method here!
-board[index_number]
 def position_taken(board, index)
   if
-    "   " || "  " || " " == false
+    array[index_number] == "   " || "  " || " "
+    return false
   else
     true
   end
